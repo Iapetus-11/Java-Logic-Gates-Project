@@ -5,4 +5,4 @@ I'm going to try and code either a virtual binary calculator of sorts, or a virt
 * Add more logic gates to the logic class if needed.
 * Add a class for stuff like shift registers.
 * Add a class for the actual putting together of stuff.
-* Hope I don't have a mental breakdown. 
+* Not have a mental breakdown. 
