@@ -21,11 +21,11 @@ public class Logic{
    
    //2 input xor
    public static boolean xor2(boolean a, boolean b){
-      return (a && !b) || (!b && a);
+      return (a && !b) || (!a && b);
    }
    
    //inverter
-   public static boolean inverter(boolean a){
+   public static boolean invert(boolean a){
       return (!a);
    }
 }
