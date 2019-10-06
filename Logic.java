@@ -15,7 +15,7 @@ public class Logic{
    }
    
    //3 input nand
-   public static boolean nand3(boolean a, boolean b){
+   public static boolean nand3(boolean a, boolean b, boolean c){
       return !(a && b && c);
    }
    
@@ -48,6 +48,8 @@ public class Logic{
    public static boolean xnor2(boolean a, boolean b){
       return ((a && b) || (!a && !b));
    }
+   
+   //three input xor in xnor in future--maybe?
    
    //inverter
    public static boolean invert(boolean a){
