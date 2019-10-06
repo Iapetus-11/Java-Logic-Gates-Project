@@ -1,5 +1,5 @@
 # Java-Logic-Gates-Project
-* I'm going to try and code either a virtual binary calculator of sorts, and/or a 8 bit cpu--probably a virtual replica of an Intel 8080.
+* I'm going to try and code a virtual binary calculator of sorts, and/or a 8 bit cpu--probably a virtual replica of an Intel 8080.
 
 ## TODO:
 * Add more logic gates to the logic class if needed.
