@@ -8,4 +8,4 @@
 ### Longterm:
 * Add more logic gates to the logic class if needed for cpu
 * Add a class for stuff like shift registers if needed for cpu
-* Add a cpu class
+* Add a cpu class w/ virtual cpu
